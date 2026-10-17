@@ -1,4 +1,4 @@
-# 2026 — Week 01
+# Week 01
 
 **Dates:**
 **Focus:**
